@@ -11,3 +11,5 @@ If it helps you，reward my bitcoin address:
 1J9Pn74PRD7T9kUW1hMMa7R2DuXRokZdUD
 
 http://xia0yu.win/41.html
+
+![image](https://github.com/suisuiyiyi/BIP38PasswordBruteForce/blob/master/demo.png)
